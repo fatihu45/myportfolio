@@ -1,0 +1,131 @@
+body {
+  font-family: Open Sans;
+  padding-top: 54px;
+  color: #868e96
+}
+
+@media (min-width: 992px) {
+  body {
+      padding-top:0;
+      padding-left: 17rem
+  }
+}
+
+.section-1 {
+  border-bottom: 1px solid #dee2e6;
+    padding-top: 5rem!important;
+    padding-bottom: 5rem!important
+}
+
+.full-name {
+font-family: saira extra condensed, serif;
+font-size: 2.5rem;
+margin: 0;
+font-weight: 700;
+display: flex;
+}
+.fatihu {
+margin: 0;
+color: black;
+}
+.muazu {
+color: #bd5d38;
+margin: 0;
+}
+.contact {
+font-family: saira extra condensed, serif;
+margin: 0;
+color: gray;
+font-size: 23px;
+font-weight: 500;
+text-transform: uppercase;
+margin-bottom: 50px;
+}
+.email {
+  color: #bd5d38;
+  text-decoration-line: none;
+}
+.email:hover {
+  color: #622d18;
+  text-decoration-line: underline;
+}
+
+h1 {
+font-size: 6rem;
+line-height: 5.5rem;
+}
+.mb-1 {
+margin-bottom: 3rem;
+font-family: serif;
+color: grey;
+font-size: 18px;
+font-family: open sans;
+}
+.facebook, .twitter, .linkedin {
+  border-radius: 50%;
+  border-style: none;
+  padding: 10px;
+  margin-right: 15px;
+  background-color: #495057
+}
+.FB, .x, .LI {
+  width: 30px;
+}
+
+.facebook:hover, .twitter:hover, .linkedin:hover {
+  background-color: #bd5d38;
+  cursor: pointer;
+}
+
+.edu {
+  font-size: 3.5rem;
+  font-family: saira extra condensed;
+  color: black;
+}
+.sch {
+  font-family: saira extra condensed;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 0;
+  font-size: 1.75rem;
+}
+.abt-sch {
+  font-weight: 500;
+  font-family: saira extra condensed;
+  font-size: 1.35rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.section-2, .section-3, .section-4 {
+  border-bottom: 1px solid #dee2e6;
+    padding-top: 5rem!important;
+    padding-bottom: 5rem!important
+}
+
+.skills, .interest {
+  font-size: 3.5rem;
+  font-family: saira extra condensed;
+  color: black;
+}
+.skills-disc {
+  font-weight: 500;
+  font-family: saira extra condensed;
+  font-size: 1.35rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.html, .css, .js {
+  width: 60px;
+  padding-right: 30px;
+}
+.css {
+  width: 66px;
+}
+
+.skills-icons {
+  display: flex;
+  flex-direction: row;
+}
+
